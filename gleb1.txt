@@ -7,3 +7,7 @@ someone who'll hear your dreams
 test new branch feature
 
 second test for branch feature
+
+test 1 for feature
+
+test 2 for feature1
