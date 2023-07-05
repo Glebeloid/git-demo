@@ -11,3 +11,5 @@ second test for branch feature
 test 1 for feature
 
 test 2 for feature1
+
+test 3 for feature
